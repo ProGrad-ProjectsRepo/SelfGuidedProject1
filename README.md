@@ -1,2 +1,2 @@
 # SelfGuidedProject1
-HTML and CSS PreWork SelfGuided Project
+SelfGuided PreWork Project using HTML and CSS
